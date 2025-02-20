@@ -7,8 +7,6 @@ Este repositorio contiene ejemplos prácticos de implementación de los principi
 
 ### 1. Gestión de Notificaciones
 
-[Espacio para imagen de Figma]
-
 **Descripción:** Sistema que permite enviar notificaciones por diferentes medios (correo electrónico y SMS) sin acoplarse a una implementación específica.
 
 **Principios SOLID aplicados:**
@@ -19,8 +17,6 @@ Este repositorio contiene ejemplos prácticos de implementación de los principi
 
 ### 2. Sistema de Pagos
 
-[Espacio para imagen de Figma]
-
 **Descripción:** Sistema de pagos desacoplado que soporta múltiples métodos de pago.
 
 **Principios SOLID aplicados:**
@@ -28,8 +24,6 @@ Este repositorio contiene ejemplos prácticos de implementación de los principi
 - **SRP**: Cada componente maneja su propia lógica de procesamiento
 
 ### 3. Gestión de Envíos y Seguimiento
-
-[Espacio para imagen de Figma]
 
 **Descripción:** Sistema para gestión logística con diferentes roles y responsabilidades.
 
@@ -41,8 +35,6 @@ Este repositorio contiene ejemplos prácticos de implementación de los principi
 
 ### 4. Calculadora de Descuentos
 
-[Espacio para imagen de Figma]
-
 **Descripción:** Sistema de descuentos extensible.
 
 **Principios SOLID aplicados:**
@@ -50,8 +42,6 @@ Este repositorio contiene ejemplos prácticos de implementación de los principi
 - **SRP**: Separación clara de responsabilidades en el procesamiento de pagos
 
 ### 5. Sistema de Vehículos
-
-[Espacio para imagen de Figma]
 
 **Descripción:** Sistema de transporte genérico que soporta diferentes tipos de vehículos.
 
