@@ -58,3 +58,5 @@ Este repositorio contiene ejemplos prácticos de implementación de los principi
 **Principios SOLID aplicados:**
 - **LSP**: Sustitución transparente de tipos de vehículos
 - **DIP**: Dependencia de abstracciones para mayor flexibilidad
+
+🗒️[Link del Figma](https://www.figma.com/design/p2FKkjb88WxlCv3OSQy3zr/SOLID?node-id=0-1&t=a4ByNnH5YT2MHJi3-1)
